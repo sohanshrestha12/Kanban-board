@@ -43,6 +43,10 @@
 - **Task Prioritization**: Implement task prioritization (e.g., high, medium, low).
 - **Authentication**: Add user authentication to allow users to save and manage boards across devices.
 
+## Live Demo
+
+- https://kanbanboard-task2.netlify.app/
+
 ## Time Spent on the Project
 
 - Approximately **6-7 hours** were spent on implementing the functionality, testing, and refining the design.
